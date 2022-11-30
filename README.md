@@ -14,9 +14,9 @@ Here we mainly worked on providing the backend services which are required to ru
 </p>
 <p>Tech stack:  Springboot, Hibernate, Java, Spring-Data-JPA, MySQL</p>
 
-#Team Members
-Rakesh D B
-Ankit Chaurasia
-Gautam Deo prasad
-Shivraj krishna punjare
-Tanya kiran
+<h2>Team Members<h2/>
+<p>Rakesh D B</p>
+<p>Ankit Chaurasia</p>
+<p>Gautam Deo prasad</p>
+<p>Shivraj krishna punjare</p>
+<p>Tanya kiran</p>
