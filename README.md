@@ -13,3 +13,10 @@ Here we mainly worked on providing the backend services which are required to ru
 <p>My task in this project was to handle the login, logout and cart serrvices.
 </p>
 <p>Tech stack:  Springboot, Hibernate, Java, Spring-Data-JPA, MySQL</p>
+
+#Team Members
+Rakesh D B
+Ankit Chaurasia
+Gautam Deo prasad
+Shivraj krishna punjare
+Tanya kiran
